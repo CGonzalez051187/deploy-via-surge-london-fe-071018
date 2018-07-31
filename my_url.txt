@@ -1,1 +1,1 @@
-/^http.*\.surge\.sh\z/
+http://dusty-rose.surge.sh
